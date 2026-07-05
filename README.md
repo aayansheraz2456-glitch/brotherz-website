@@ -1,5 +1,9 @@
 # Brotherz — Restaurant Website
 
+**[Live demo →](https://aayansheraz.github.io/brotherz-website/)**
+
+![Brotherz screenshot](.github/screenshot.png)
+
 Scroll-animated landing page for **Brotherz Pk** (Okara). React + TypeScript + Vite + Tailwind CSS v4 + lucide-react.
 
 ## Run locally
