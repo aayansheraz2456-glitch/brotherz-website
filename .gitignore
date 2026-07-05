@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+# AI tool local state (not project code, don't commit)
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
